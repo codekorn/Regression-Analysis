@@ -1,0 +1,1 @@
+api_key_nfl = 'OMRfEyLbCH4ZgAWjpBqSQwcl29derUKz'
