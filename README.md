@@ -22,4 +22,4 @@ An OLS model was then made to determine the best fit on predicting a teams total
 Afterwards a Residual plot using Seaborn was made to see how well the predictions fit the actual data.
 
 
-![](pics/residual.png)
+<img src="pics/residual.png" width="600" height="600">
