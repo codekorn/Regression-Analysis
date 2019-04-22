@@ -5,3 +5,5 @@ This project is an analysis of NFL stats by season to determine, what stats are 
 For the model in this project Total offensive yards gained and Total defensive yards surrendered, were not used, neither was points scored nor points relinquished, being that the aim was to predict winners with stats and not use those which actually determine the winner.
 
 The project started with Webscraping data for every team from 2002-2018 off the ESPN website. The data was then cleaned and analyzed to see correlation between winning and other stats.
+
+https://github.com/codekorn/Regression-Analysis/tree/master/pics
