@@ -17,9 +17,9 @@ An intersting find was, teams can be sacked more by opposing teams during the du
 
 An OLS model was then made to determine the best fit on predicting a teams total wins in a given season as the predicted variable. The decided open variables used to predict were Interceptions fumbles forced and sacks on both sides of the ball, as well as the amount of rush yards allowed for an opposing team.
 
-<img src="pics/Model.png" width="600" height="400">
+<img src="pics/Model.png" width="600" height="600">
 
 Afterwards a Residual plot using Seaborn was made to see how well the predictions fit the actual data.
 
 
-<img src="pics/residual.png" width="600" height="600">
+<img src="pics/residual.png" width="600" height="400">
