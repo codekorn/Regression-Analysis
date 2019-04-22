@@ -6,4 +6,4 @@ For the model in this project Total offensive yards gained and Total defensive y
 
 The project started with Webscraping data for every team from 2002-2018 off the ESPN website. The data was then cleaned and analyzed to see correlation between winning and other stats.
 
-https://github.com/codekorn/Regression-Analysis/blob/master/pics/w_corr.png
+[! ](pics/w_corr.png)
