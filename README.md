@@ -9,6 +9,10 @@ The project started with Webscraping data for every team from 2002-2018 off the 
 ### Correlation with Winning
 ![](pics/w_corr.png)
 
+Some plots were then made using Matplotlib and Seaborn to see the distribution of the data.
+An intersting find was, teams can be sacked more by opposing teams during the duration of the season, than the amount of sacks any particular team will be credited for.
+![](pics/sack_dist.png)
+
 An OLS model was then made to determine the best fit for turnovers and sacks on both sides of the ball and defensive rush defense. 
 
 ![](pics/Model.png)
